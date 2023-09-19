@@ -1,14 +1,14 @@
-MVP:
+MVP: Get a prototype off the ground (bad model is better than no model)
 Add update script to refresh data and model
 build report
 build season simulation
 
-iter 2:
+iter 2: Make the model better (normal model is better than no model)
 replace elo with bayesian updating model with better identity function
 add season carry over hyperparameter
 add home/away
 
-iter 3:
+iter 3: Make the model way better (a good model...maybe?)
 advanced carry over hyperparameter (sigmoid?)
 QB adjustments
 other player adjustments
