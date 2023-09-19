@@ -1,5 +1,4 @@
 MVP:
-score teams with elo model
 build season simulation
 build report
 
@@ -7,7 +6,6 @@ iter 2:
 replace elo with bayesian updating model with better identity function
 add season carry over hyperparameter
 add home/away
-redesign data structure with SQLlite
 
 iter 3:
 advanced carry over hyperparameter (sigmoid?)
