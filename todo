@@ -1,6 +1,7 @@
 MVP:
-build season simulation
+Add update script to refresh data and model
 build report
+build season simulation
 
 iter 2:
 replace elo with bayesian updating model with better identity function
